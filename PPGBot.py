@@ -127,4 +127,4 @@ def scrape_product_info(product_name):
     return products
 
 
-bot.run('MTAyMTgyNDkxNDQwMTAxNzg1Ng.GbubhJ.vxjBRvZ0DfMpmS9VywUPJO_W9zyT90O4I_VY68')
+bot.run('BOT_TOKEN')
